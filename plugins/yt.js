@@ -16,7 +16,7 @@ async function downloadAndSend(message, type = "video", query, isUrl = false) {
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363298577467093@newsletter',
+        newsletterJid: '120363332700909499@newsletter',
         newsletterName: BOT_NAME,
         serverMessageId: -1
       }
