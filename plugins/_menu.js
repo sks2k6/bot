@@ -38,11 +38,11 @@ Description: ${i.desc}`);
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
       let menu = `╭━━━━━ᆫ ${BOT_NAME} ᄀ━━━
-┃ ⎆  *OWNER*:  ${OWNER_NAME}
-┃ ⎆  *PREFIX*: ${prefix}
-┃ ⎆  *DATE*: ${date}
-┃ ⎆  *TIME*: ${time}
-┃ ⎆  *COMMANDS*: ${plugins.commands.length} 
+┃ ✈︎  *OWNER*:  ${OWNER_NAME}
+┃ ✈︎  *PREFIX*: ${prefix}
+┃ ✈︎  *DATE*: ${date}
+┃ ✈︎  *TIME*: ${time}
+┃ ✈︎  *COMMANDS*: ${plugins.commands.length} 
 ╰━━━━━━━━━━━━━━━\n`;
       let cmnd = [];
       let cmd;
@@ -154,7 +154,7 @@ bot(
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "yuki",
+        newsletterName: "sksbot",
         serverMessageId: -1
       }
     };
