@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshay-Eypz/whatsapp-bot.git"
+    "url": "git+https://github.com/sks2k6/bot.git"
   },
   "keywords": [
     "bot",
@@ -20,13 +20,13 @@
   "author": "Akshay",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Akshay-Eypz/whatsapp-bot/issues"
+    "url": "https://github.com/sks2k6/bot/issues"
   },
-  "homepage": "https://github.com/Akshay-Eypz/whatsapp-bot#readme",
+  "homepage": "https://github.com/sks2k6/bot#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "^1.7.7",
-    "baileys": "github:Akshay-Eypz/Baileys",
+    "baileys": "github: WhiskeySocket/Baileys",
     "browser-id3-writer": "^4.4.0",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.5",
